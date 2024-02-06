@@ -47,9 +47,9 @@ Topic]`.
 
 Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**: Educate
-- **Objective Two**: Inform
-- **Objective Three**: Discussion
+* **Objective One**: Educate
+* **Objective Two**: Inform
+* **Objective Three**: Discussion
 
 ## 📚 Sample Questions
 
@@ -71,8 +71,11 @@ the stated objectives for the podcast episode.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+This episode is about the First-Year College students' college experience on choosing their major to study. Since, college education is a major part of our futures and our education career choosing the field we would like to study is a major choice in our lives. Therefore, this process might be stressful.
+
+As a host, I am a first year student and I am a computer science major, of course, it has been very stressful and hard on my part to decide this major therefore I think I am credible to talk about this topic in the podcast. I also would like my guest to be a first year student however I want my guest to be undecided about their major so we can talk about how the process is going for her/him or what struggles she/he has faced in this process.
+
+I want my audience to be able to know that they are not alone in this journey and there is a lot of people who goes through thee same path.I want to have some idea about what my peers would like to have as a major in college that Allegheny College does not offer ton see if that would help them decide about the major that they want to study. Also, I want them to get informed about how to find out about their passions.
 
 
 ## 📢 Call to Action
@@ -91,9 +94,9 @@ conference proceedings that you studied when preparing this proposal.
 Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
 
-- **Reference One**: [text](https://medium.com/@owenshapleigh/major-problem-3832aec05d28)
-- **Reference Two**: [text](https://www.forbes.com/sites/theyec/2023/03/27/10-tips-for-building-a-successful-podcast/?sh=5e40c0816ede)
-- **Reference Three**: [text](https://open.spotify.com/show/1HFVqYMWgebqUUjeZR6xZj)
+* **Reference One**: [text](https://medium.com/@owenshapleigh/major-problem-3832aec05d28)
+* **Reference Two**: [text](https://www.forbes.com/sites/theyec/2023/03/27/10-tips-for-building-a-successful-podcast/?sh=5e40c0816ede)
+* **Reference Three**: [text](https://open.spotify.com/show/1HFVqYMWgebqUUjeZR6xZj)
 
 If you used any type of artificial intelligence (AI) writing assistant
 tools, please add an additional paragraph that explains clearly specific tools
