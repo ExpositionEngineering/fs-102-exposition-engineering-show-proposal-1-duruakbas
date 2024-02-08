@@ -77,9 +77,7 @@ As a host, I am a first year student and I am a computer science major, of cours
 
 I want my audience to be able to know that they are not alone in this journey and there is a lot of people who goes through thee same path.I want to have some idea about what my peers would like to have as a major in college that Allegheny College does not offer ton see if that would help them decide about the major that they want to study. Also, I want them to get informed about how to find out about their passions.
 
-
 ## 📢 Call to Action
-
 After a person listens to this episode what do you want them to do?
 
 After listening to this episode I want first-yer students to know that they are not in this alone and that there are other people who goes through the same strugles as them. Also, I want them to be able to sit and think about what they are interested in nd how they would like to pursue their academic career.
